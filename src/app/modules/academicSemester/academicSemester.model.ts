@@ -54,3 +54,5 @@ export const AcademicSemester = model<TAcademicSemester>(
   'AcademicSemester',
   acdemicSemesterSchema,
 );
+
+
